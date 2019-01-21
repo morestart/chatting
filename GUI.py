@@ -10,7 +10,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 
 def show_about_info():
-    messagebox.showinfo("关于", "版权所有:3406实验室Girls团队")
+    messagebox.showinfo("关于", "3406")
 
 
 class Chat(object):
